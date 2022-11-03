@@ -9,8 +9,15 @@
 #define Header_h
 
 void helloWorld();
+
+void chapterSelector();
 void chapterSelection(int chapter);
+
 void uninitializedVariable();
 
+void doubleInt();
+
+void returnStatement();
+int getInputFromUser();
 
 #endif /* Header_h */

@@ -7,7 +7,6 @@
 //
 
 #include <iostream>
-#include "Header.h"
 
  void helloWorld() {
     std::cout << "Hello World \n";
